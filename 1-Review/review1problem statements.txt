@@ -1,0 +1,29 @@
+
+*First review:
+question1: print all the files in your folder using for loop
+
+Ans:
+ 
+for fol in rupa/*;
+
+do
+        echo $fol;
+done
+
+question2: numbers 1-10 to reversing order
+Ans:
+
+#!/bin/bash -x
+
+for((n=10; n>=1; n--))
+
+do
+
+        echo $n
+        echo "reversive numbers is: "
+
+done
+
+
+
+
